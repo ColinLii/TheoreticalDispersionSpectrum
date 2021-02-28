@@ -80,8 +80,7 @@ v = linspace(vmin,vmax,nv);
 tmp = load(filename);
 data = reshape(tmp,nv,nf);
 figure;imagesc(f,v,data);set(gca,'YDir','normal')
-caxis([0,0.05])
-axis([0.01,1,2,9])
+axis([0.01,1,2,5])
 colormap(jet)
 print('-dpng',[out,'.png'])
 fnm = [out,'.nc'];
