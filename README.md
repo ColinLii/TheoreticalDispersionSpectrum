@@ -8,6 +8,7 @@ Before make please mkdir for bin and OBJ
 Use bin/set_grt.m to run this program.
 
 References:
+
 Chen, X. (1993). A systematic and efficient method of computing normal modes for multilayered half-space. Geophysical Journal International, 115(2), 391-409. doi:10.1111/j.1365-246X.1993.tb01194.x
 
 Wang, J., Wu, G., & Chen, X. (2019). Frequency‐Bessel Transform Method for Effective Imaging of Higher‐Mode Rayleigh Dispersion Curves From Ambient Seismic Noise Data. Journal of Geophysical Research: Solid Earth, 124(4), 3708-3723. doi:10.1029/2018jb016595
